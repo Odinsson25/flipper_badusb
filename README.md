@@ -21,7 +21,9 @@ BadUSB codes for the Flippper Zero
 8. Plug your Flipper into the target device
 <img src="./tutorial/flipper-tut-badusb-connect.png" alt="Connect your flipper" width="70%" height="auto">
 9. Press **OK** to execute the script
+
 ---
+
 Note: these scripts have been tested on ChromeOS and may not (fully) function on your OS
 The creator of this scripts is not responsible for any problems or damage that you run into using these scripts.
 Use at own risk, and read the code before you execute it ;)
