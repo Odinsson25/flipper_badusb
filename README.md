@@ -10,7 +10,7 @@ BadUSB codes for the Flippper Zero
 !! Note: you can **not** access the file system via the Mobile App
 2. Go to the file system (https://lab.flipper.net/archive)
 3. Go to SD Card, then to **badusb** (/ext/badusb)
-<img src="./tutorial/flipper-tut-badusb.png" alt="lab.flipper.net interface in /ext" width="60%" height="auto">
+<img src="./tutorial/flipper-tut-badusb.png" alt="lab.flipper.net interface in /ext" width="75%" height="auto">
 4. From there, upload the script. Click on the **+** in the top-right on lab.flipper.net
 <img src="./tutorial/flipper-tut-badusb-upload.png" alt="lab.flipper.net interface in /ext" width="300">
 5. Unplug your Flipper when the upload is done
