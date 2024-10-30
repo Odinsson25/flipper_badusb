@@ -10,15 +10,16 @@ BadUSB codes for the Flippper Zero
 !! Note: you can **not** access the file system via the Mobile App
 2. Go to the file system (https://lab.flipper.net/archive)
 3. Go to SD Card, then to **badusb** (/ext/badusb)
-<img src="./tutorial/flipper-tut-badusb.png" alt="lab.flipper.net interface in /ext" width="75%" height="auto">
+<img src="./tutorial/flipper-tut-badusb.png" alt="lab.flipper.net interface in /ext" width="70%" height="auto">
 4. From there, upload the script. Click on the **+** in the top-right on lab.flipper.net
-<img src="./tutorial/flipper-tut-badusb-upload.png" alt="lab.flipper.net interface in /ext" width="300">
+<img src="./tutorial/flipper-tut-badusb-upload.png" alt="Upload menu in labs.flipper.net" width="70%" height="auto">
 5. Unplug your Flipper when the upload is done
+<img src="./tutorial/flipper-tut-badusb-disconnect.png" alt="Disconnect your flipper" width="70%" height="auto">
 6. On your flipper, go to **OK > Bad USB** OR **Apps > USB > Bad USB**
 7. Select the script you want to execute
-![Select the script](./tutorial/flipper-tut-badusb-script.png)
+<img src="./tutorial/flipper-tut-badusb-script.png" alt="Select the script in your flipper" width="70%" height="auto">
 8. Plug your Flipper into the target device
-![Connect the flipper](./tutorial/flipper-tut-badusb-connect.png)
+<img src="./tutorial/flipper-tut-badusb-connect.png" alt="Connect your flipper" width="70%" height="auto">
 9. Press **OK** to execute the script
 ---
 Note: these scripts have been tested on ChromeOS and may not (fully) function on your OS
