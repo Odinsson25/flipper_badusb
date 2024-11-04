@@ -1,0 +1,9 @@
+REM Title: FAKE WINDOWS BLUESCREEN
+REM Author: Odinsson25
+REM OS: Tested on ChromeOS
+
+CTRL n
+STRING https://fakeupdate.net/win10ue/bsod.html
+ENTER
+DELAY 50
+F11 
