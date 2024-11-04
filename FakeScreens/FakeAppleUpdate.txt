@@ -1,0 +1,9 @@
+REM Title: FAKE APPLE UPDATE SCREEN
+REM Author: Odinsson25
+REM OS: Tested on ChromeOS
+
+CTRL n
+STRING https://fakeupdate.net/apple/
+ENTER
+DELAY 50
+F11

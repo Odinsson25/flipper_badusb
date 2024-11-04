@@ -1,0 +1,15 @@
+
+REM Title: You are an idiot web version
+REM Author: FalsePhilosopher & Odinsson25
+REM Description: Opens a you are an idiot remake website
+REM OS: Tested on ChromeOS
+
+DELAY 300
+CTRL n
+DELAY 100
+STRING https://ygev.github.io/Trojan.JS.YouAreAnIdiot
+ENTER
+
+F11
+MEDIA BRIGHT_UP
+REPEAT 6
